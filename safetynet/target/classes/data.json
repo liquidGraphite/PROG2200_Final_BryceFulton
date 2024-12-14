@@ -1,0 +1,90 @@
+{
+  "persons": [
+    {
+      "firstName": "John",
+      "lastName": "Boyd",
+      "address": "1509 Culver St",
+      "city": "Culver",
+      "zip": "97451",
+      "phone": "841-874-6512",
+      "email": "john.boyd@example.com"
+    },
+    {
+      "firstName": "Jacob",
+      "lastName": "Boyd",
+      "address": "1509 Culver St",
+      "city": "Culver",
+      "zip": "97451",
+      "phone": "841-874-6513",
+      "email": "jacob.boyd@example.com"
+    },
+    {
+      "firstName": "Tenley",
+      "lastName": "Boyd",
+      "address": "1509 Culver St",
+      "city": "Culver",
+      "zip": "97451",
+      "phone": "841-874-6514",
+      "email": "tenley.boyd@example.com"
+    },
+    {
+      "firstName": "Roger",
+      "lastName": "Boyd",
+      "address": "112 Steppes Pl",
+      "city": "Culver",
+      "zip": "97451",
+      "phone": "841-874-6515",
+      "email": "roger.boyd@example.com"
+    },
+    {
+      "firstName": "Felicia",
+      "lastName": "Boyd",
+      "address": "112 Steppes Pl",
+      "city": "Culver",
+      "zip": "97451",
+      "phone": "841-874-6516",
+      "email": "felicia.boyd@example.com"
+    }
+  ],
+  "firestations": [
+    { "address": "1509 Culver St", "station": "3" },
+    { "address": "112 Steppes Pl", "station": "2" }
+  ],
+  "medicalrecords": [
+    {
+      "firstName": "John",
+      "lastName": "Boyd",
+      "birthdate": "03/06/1984",
+      "medications": ["aznol:350mg", "hydrapermazol:100mg"],
+      "allergies": ["nillacilan"]
+    },
+    {
+      "firstName": "Jacob",
+      "lastName": "Boyd",
+      "birthdate": "03/06/1989",
+      "medications": [],
+      "allergies": []
+    },
+    {
+      "firstName": "Tenley",
+      "lastName": "Boyd",
+      "birthdate": "02/18/2012",
+      "medications": ["pharmacol:5000mg"],
+      "allergies": ["peanuts"]
+    },
+    {
+      "firstName": "Roger",
+      "lastName": "Boyd",
+      "birthdate": "09/28/1989",
+      "medications": ["ibupurin:200mg"],
+      "allergies": ["shellfish"]
+    },
+    {
+      "firstName": "Felicia",
+      "lastName": "Boyd",
+      "birthdate": "01/10/2000",
+      "medications": [],
+      "allergies": ["pollen"]
+    }
+  ]
+}
